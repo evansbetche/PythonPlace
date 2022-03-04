@@ -35,6 +35,7 @@ height = 20.5
 
 # 1.3 Strings
 # Strings are used to represent text inside of python
-
+cup = "White"
+print(cup)
 
 
